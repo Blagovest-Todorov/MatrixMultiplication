@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\bin\Debug\netcoreapp3.1\06.matrixMultiplication.exe
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\bin\Debug\netcoreapp3.1\06.matrixMultiplication.deps.json
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\bin\Debug\netcoreapp3.1\06.matrixMultiplication.runtimeconfig.json
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\bin\Debug\netcoreapp3.1\06.matrixMultiplication.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\bin\Debug\netcoreapp3.1\06.matrixMultiplication.dll
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\bin\Debug\netcoreapp3.1\06.matrixMultiplication.pdb
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\obj\Debug\netcoreapp3.1\06.matrixMultiplication.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\obj\Debug\netcoreapp3.1\06.matrixMultiplication.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\obj\Debug\netcoreapp3.1\06.matrixMultiplication.AssemblyInfo.cs
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\obj\Debug\netcoreapp3.1\06.matrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\obj\Debug\netcoreapp3.1\06.matrixMultiplication.dll
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\obj\Debug\netcoreapp3.1\06.matrixMultiplication.pdb
+C:\Users\Bla\source\repos\MultiDimentionalArrays\06.matrixMultiplication\obj\Debug\netcoreapp3.1\06.matrixMultiplication.genruntimeconfig.cache
